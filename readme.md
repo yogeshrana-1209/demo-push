@@ -1,1 +1,1 @@
-Hello this is new demo repository.
+Hello this is new demo repository. For working with the Git and Github.
